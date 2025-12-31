@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Advanced Spring Boot & System Design**
 - 💬 Ask me about **Java, Spring Boot, FastAPI, React.js, REST APIs**
 - 📫 How to reach me **harishkumardhanasekaran3@gmail.com**
-- 📄 My Resume → *Add your resume link here*
+- 📄 My Resume → *https://drive.google.com/file/d/1jeFs1uDuuddZA2oFJytLdN2clYTkWoya/view?usp=drivesdk*
 
 ---
 
